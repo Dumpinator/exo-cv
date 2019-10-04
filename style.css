@@ -59,12 +59,16 @@ nav .menu ul li a {
   cursor: pointer;
 }
 .logo {
- 
+  position: relative;
+  height: 90px;
+  width: 90px;
 }
 .logo img {
   position: absolute;
   height: 100%;
+  width: 100%;
   top: 0;
+  left: 0;
 }
 
 /* CSS Toggler with invible input chackbox */
