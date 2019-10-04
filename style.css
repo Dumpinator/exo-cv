@@ -13,7 +13,8 @@
     box-sizing: border-box;
 }
 
-body {
+body,
+#main-container {
     font-family: 'Poppins', sans-serif;
     scroll-behavior: smooth;
     overflow-x: hidden;
